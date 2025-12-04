@@ -2,7 +2,6 @@
   "name": "usaruna-marketplace",
   "version": "1.0.0",
   "description": "Online marketplace for Saudi family producers - Supporting Vision 2030",
-  "homepage": "https://amjd342.github.io/project",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
